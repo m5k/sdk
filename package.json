@@ -1,16 +1,16 @@
 {
-  "name": "@pangolindex/sdk",
+  "name": "@m5k/sdk",
   "license": "MIT",
   "version": "4.4.0-rc.1",
-  "description": "🛠 An SDK for building applications on top of Pangolin.",
+  "description": "🛠 An SDK for building applications on top of Vavalon.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pangolindex/sdk",
+  "repository": "https://github.com/m5k/sdk",
   "keywords": [
-    "pangolin",
+    "vavalon",
     "avalanche"
   ],
   "module": "dist/sdk.esm.js",
